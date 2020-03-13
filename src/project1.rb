@@ -1,11 +1,17 @@
 require 'lolcat'
 require 'figlet'
+if ARGV[0] == "-help"
+  # puts "hello"
+  system "cat help.txt"
+  exit
+end
 def draw()
   system "clear"
   system "figlet FORTUNE PIGGY | lolcat"
 
 end
 draw()
+
 
 answer = "yes"
 while answer == "yes"

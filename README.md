@@ -16,8 +16,6 @@ Our early saving and investment is going to dictate whether we're going to have 
 So in FORTUNE PIGGY, you're going to put in your mothly income, your expenses and your current saving, it will calculate the money you need if you're not working for 6 months, in case you lose your job tommorow, that money is called a "safety net"
 It will return whether you should invest now and if you shouldn't, how long you have to wait until you can. If you were ready to invest, it will tell you how much you should put in your investment. All of this is based on your own references.
 
-Link to this repository : git@github.com:hai14894/terminalapp.git
-
 <h2> *FEATURES <h2>
 
 <h3>App logo<h3>
@@ -35,6 +33,9 @@ when it finished the calculation it will ask you if you want to run the app agai
 *figlet- https://rubygems.org/gems/figlet
 *tty prompt- https://rubygems.org/gems/tty-prompt
 
+<h3> control flow <h3>
+![title](docs/controlflow.png)
+Link to this repository : git@github.com:hai14894/terminalapp.git
 
 
 

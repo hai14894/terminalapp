@@ -1,0 +1,2 @@
+install the app : ruby project1.ruby
+if you enter invalid number -> please enter whole number.
